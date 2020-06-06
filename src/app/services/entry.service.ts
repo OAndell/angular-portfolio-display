@@ -10,10 +10,10 @@ export class EntryService {
   getEntries(){
     return [
       {
-        title: "Andell.eu",
-        image: "assets/images/andell.eu.png",
-        link: "https://andell.eu/Oscar",
-        description:"Personal website developed in React and Flask. I enjoy learning and experimenting with different technologies and solutions. One such project is my personal website made for displaying contact info, CV and portfolio. The site is a self-hosted web application with a React frontend and a flask backend site serving data from a MySQL database."
+        title: "Github Profile",
+        image: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        link: "https://github.com/OAndell",
+        description:"Collections of projects and idéas in varius states of completion"
       },
       {
         title: "Riksdagskollen",
@@ -28,6 +28,12 @@ export class EntryService {
         description:"Connect with me on LinkedIn"
       },
       {
+        title: "Andell.eu",
+        image: "assets/images/andell.eu.png",
+        link: "https://andell.eu/Oscar",
+        description:"Personal website developed in React and Flask. I enjoy learning and experimenting with different technologies and solutions. One such project is my personal website made for displaying contact info, CV and portfolio. The site is a self-hosted web application with a React frontend and a flask backend site serving data from a MySQL database."
+      },
+      {
         title: "Windy Tree Animation",
         image: "https://raw.githubusercontent.com/OAndell/windy-tree-animation/master/screenshot.png",
         link: "https://oandell.github.io/windy-tree-animation/",
@@ -37,13 +43,7 @@ export class EntryService {
         title: "Resume",
         image: "https://andell.eu/profileImages/oscar2.jpg",
         link: "https://drive.google.com/file/d/1mSyWhLg_nIY8-Y4mIKmlz15DazuTFeyR/view",
-        description:"My CV"
-      },
-      {
-        title: "Github Profile",
-        image: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-        link: "https://github.com/OAndell",
-        description:"Collections of projects and idéas in varius states of completion"
+        description:"Software engineer. Check out my complete CV."
       },
       {
         title: "Instagram",
