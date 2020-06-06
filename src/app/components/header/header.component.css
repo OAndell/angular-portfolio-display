@@ -1,0 +1,12 @@
+.header {
+    padding: 10px 14px;
+    background: #555;
+    color: #f1f1f1;
+    top: 0;
+    width: 100%;
+    position: fixed;
+  }
+
+.text{
+    padding: 10px;
+}
