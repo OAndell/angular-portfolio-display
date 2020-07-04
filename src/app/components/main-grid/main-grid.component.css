@@ -3,7 +3,6 @@
         display: flex;
         flex-flow: column wrap;
         align-content: space-between;
-        height: 2000px;
         margin: 20px;
         padding-top:  50px;
       }
@@ -31,7 +30,6 @@
         display: flex;
         flex-flow: column wrap;
         align-content: space-between;
-        height: 2000px;
         margin: 20px;
         padding-top:  50px;
       }
